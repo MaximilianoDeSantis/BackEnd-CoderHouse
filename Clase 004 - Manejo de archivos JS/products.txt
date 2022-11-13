@@ -1,0 +1,32 @@
+[
+  {
+    "name": "CAMISETA DE ARGENTINA LE COQ SPORTIF HOMENAJE 86 TERCER ALTERNATIVA BLANCA",
+    "price": 11999,
+    "URL": "https://cdn.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/c/a/camiseta-de-argentina-le-coq-sportif-homenaje-86-tercer-alternativa-41002ltn0222156-1.jpg",
+    "id": 1
+  },
+  {
+    "name": "CAMPERA ROMPEVIENTO CON CAPUCHA ADIDAS ADICOLOR ESSENTIALS TRIFOLIO NEGRA",
+    "price": 24999,
+    "URL": "https://cdn.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/c/a/campera-rompeviento-con-capucha-adidas-adicolor-essentials-trifolio-10002eh346870011.jpg",
+    "id": 2
+  },
+  {
+    "name": "CHOMBA LACOSTE PARIS PIQUE AZUL",
+    "price": 25000,
+    "URL": "https://cdn.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/c/h/chomba-lacoste-paris-pique-azul-40002h552223166-1.jpg",
+    "id": 3
+  },
+  {
+    "name": "REMERA FILA LOGOTYPE AZUL",
+    "price": 5290,
+    "URL": "https://cdn.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/r/e/remera-fila-logotype-azul-30002l518187011-1.jpg",
+    "id": 4
+  },
+  {
+    "name": "REMERA HANG LOOSE SHASTA NEGRA",
+    "price": 6500,
+    "URL": "https://cdn.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/r/e/remera-hang-loose-shasta-negra-208020008050003-1.jpg",
+    "id": 5
+  }
+]

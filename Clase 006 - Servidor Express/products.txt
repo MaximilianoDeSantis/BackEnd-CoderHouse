@@ -1,0 +1,68 @@
+[
+  {
+    "name": "CAMISETA DE ARGENTINA LE COQ SPORTIF HOMENAJE 86 TERCER ALTERNATIVA BLANCA",
+    "price": 11999,
+    "URL": "https://cdn.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/c/a/camiseta-de-argentina-le-coq-sportif-homenaje-86-tercer-alternativa-41002ltn0222156-1.jpg",
+    "id": 1
+  },
+  {
+    "name": "CAMPERA ROMPEVIENTO CON CAPUCHA ADIDAS ADICOLOR ESSENTIALS TRIFOLIO NEGRA",
+    "price": 24999,
+    "URL": "https://cdn.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/c/a/campera-rompeviento-con-capucha-adidas-adicolor-essentials-trifolio-10002eh346870011.jpg",
+    "id": 2
+  },
+  {
+    "name": "CHOMBA LACOSTE PARIS PIQUE AZUL",
+    "price": 25000,
+    "URL": "https://cdn.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/c/h/chomba-lacoste-paris-pique-azul-40002h552223166-1.jpg",
+    "id": 3
+  },
+  {
+    "name": "REMERA FILA LOGOTYPE AZUL",
+    "price": 5290,
+    "URL": "https://cdn.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/r/e/remera-fila-logotype-azul-30002l518187011-1.jpg",
+    "id": 4
+  },
+  {
+    "name": "REMERA HANG LOOSE SHASTA NEGRA",
+    "price": 6500,
+    "URL": "https://cdn.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/r/e/remera-hang-loose-shasta-negra-208020008050003-1.jpg",
+    "id": 5
+  },
+  {
+    "name": "BOTAS CONVERSE CHUCK TAYLOR ALL STAR CORE HI NEGRA",
+    "price": 18699,
+    "URL": "https://cdn.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/2/0/200010157197001-1.jpg",
+    "id": 6
+  },
+  {
+    "name": "ZAPATILLAS CONVERSE CHUCK TAYLOR ALL STAR CORE OX NEGRA",
+    "price": 18695,
+    "URL": "https://cdn.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/z/a/zapatilla-converse-chuck-taylor-all-star-core-ox-negra-200010157196001-1.jpg",
+    "id": 7
+  },
+  {
+    "name": "ZAPATILLAS PUMA GRAVITION MEGA NEGRA",
+    "price": 18999,
+    "URL": "https://cdn.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/z/a/zapatillas-puma-gravition-mega-negra-640010389008005-1.jpg",
+    "id": 8
+  },
+  {
+    "name": "BUZO CON CAPUCHA PUMA POWER COLORBLOCK MUJER NEGRO",
+    "price": 17999,
+    "URL": "https://cdn.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/b/u/buzo-con-capucha-puma-power-colorblock-mujer-negro-99420654-640020672222001-1.jpg",
+    "id": 9
+  },
+  {
+    "name": "MUSCULOSA UNDER ARMOUR ENTRENAMIENTO PROJECT ROCK BULL MUJER MOSTAZA",
+    "price": 10499,
+    "URL": "https://cdn.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/m/u/musculosa-under-armour-entrenamiento-project-rock-bull-mujer-mostaza-700021366000277-1.jpg",
+    "id": 10
+  },
+  {
+    "name": "MUSCULOSA TOPPER RUNNING III MUJER NEGRA",
+    "price": 6399,
+    "URL": "https://cdn.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/m/u/musculosa-topper-running-iii-mujer-negra-800020165340001-1.jpg",
+    "id": 11
+  }
+]
